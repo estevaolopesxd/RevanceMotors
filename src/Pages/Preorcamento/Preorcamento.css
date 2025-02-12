@@ -1,0 +1,7 @@
+input {
+    padding: 5px; /* Espaçamento interno */
+    height: 30px; /* Ajuste a altura mínima */
+    box-sizing: border-box; /* Inclui padding e borda no cálculo de altura */
+    font-size: 14px; /* Certifique-se de que o texto tenha tamanho adequado */
+    line-height: 2;
+  }
